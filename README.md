@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Screenshot speedtest
+![Alt Text](https://github.com/HolisMS/case_devindo/blob/master/screenshots/speedtest.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
